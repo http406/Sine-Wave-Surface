@@ -15,7 +15,7 @@ The equation used in your code is:
 y = a \sin(b \sqrt{x^2 + z^2})
 \]
 
-#### **Breaking it down:**
+#### **Expanding it down:**
 1. **\( y \) (Height of the Surface)**  
    - This represents the height (or displacement) of the surface at any given point \( (x, z) \).
 
@@ -25,7 +25,7 @@ y = a \sin(b \sqrt{x^2 + z^2})
 
 3. **\( b \) (Frequency of the Wave)**  
    - This determines how many oscillations occur over a given distance.
-   - In your code, `frequency = 0.1`, which controls the **spread** of the waves.
+   - In your code, `frequency = 0.5`, which controls the **spread** of the waves.
 
 4. **\( \sqrt{x^2 + z^2} \) (Radial Distance)**  
    - This represents the **distance from the center (0,0) in the x-z plane**.
