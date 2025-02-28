@@ -11,9 +11,7 @@ This surface exhibits **periodic oscillations**, meaning it has repeating peaks 
 
 The equation used in your code is:
 
-\[
-y = a \sin(b \sqrt{x^2 + z^2})
-\]
+![Image](https://github.com/user-attachments/assets/317f6521-5287-494e-8086-a2ca67c7e640)
 
 #### **Expanding it down:**
 1. **\( y \) (Height of the Surface)**  
