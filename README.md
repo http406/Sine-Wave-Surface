@@ -25,7 +25,7 @@ The equation used in your code is:
    - This determines how many oscillations occur over a given distance.
    - In your code, `frequency = 0.5`, which controls the **spread** of the waves.
 
-4. **\( \sqrt{x^2 + z^2} \) (Radial Distance)**  
+4. **✓(x² + z²) (Radial Distance)**  
    - This represents the **distance from the center (0,0) in the x-z plane**.
    - The wave height at any point depends on how far it is from the center.
 
